@@ -1,1 +1,1 @@
-sample text to push on remote repository
+sample text for stash example
